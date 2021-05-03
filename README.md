@@ -1,11 +1,11 @@
-
+![Ripple_logo](Images/Ripple_logo.jpg)
 
 # Case Study Proposal: Ripple (payment system and protocol)
 
 ## What Is It
 Ripple is a cryptocurrency platform that functions as a remittance network, currency exchange and a real-time gross settlement system. It is created by a US-based technology company called Ripple Labs Inc. It allows quick currency conversion in its platform and instant transfer of any currency to anywhere in the world with negligible fees. It boasts that it can process a transaction in 4 seconds. The system is also scalable and able to process more than 1500 transactions per second. The ledger employs a native cryptocurrency known as “XRP”.
 
- 
+![Picture1](Images/Picture1.png)
 
 Ripple uses RippleNet, its own blockchain network, to execute transactions. There are currently around 200 banks and financial institutions that have already joined the network. 
 
@@ -44,7 +44,7 @@ It should be noted thought that what is being employed is probabilistic voting p
 
 
 
- Resources
+ ## Resources
 •	https://en.wikipedia.org/wiki/Ripple_(payment_protocol)
 •	https://digiforest.io/en/blog/top-7-fintech-blockchain-companies#rec145721059
 •	https://www.howtotoken.com/explained/ripple-different-cryptocurrencies-ultimate-guide/#:~:text=The%20important%20difference%20between%20the,is%20defined%20as%20an%20account.
